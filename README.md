@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ... Android App Development
+- 🌱 I’m currently learning ... Kotlin
+- 👯 I’m looking to collaborate on ... Web developer, digital marketing, and I want to build commmunity for all solution in One Plateforme.
+
 
 <!--
 **surendra554/surendra554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
